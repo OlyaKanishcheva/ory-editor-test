@@ -1,3 +1,7 @@
+@import "./styles.css";
+@import "./typography.css";
+@import "./elements.css";
+
 .App-header {
   background-color: #282c34;
   height: 60px;
